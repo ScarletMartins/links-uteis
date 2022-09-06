@@ -78,4 +78,11 @@
 <li><a href="https://stubborn.fun/">Stubborn</a></li>
 </ul>
 
+ ### :books:Sites úteis
+<ul>
+<li><a href="https://overapi.com/">OverAPI</a></li>
+<li><a href="https://codebeautify.org/">Code Beautify</a></li>
+<li><a href="https://unbug.github.io/codelf/">CODELF</a></li>
+<li><a href="https://colors.muz.li/">Color Pallete Generator</a></li>
+ </ul>
 
